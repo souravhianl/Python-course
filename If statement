@@ -1,0 +1,21 @@
+Syntax: 
+
+if condition:
+   # Statements to execute if
+   # condition is true
+   
+   if condition:
+   statement1
+statement2
+
+# Here if the condition is true, if block 
+# will consider only statement1 to be inside 
+# its block.
+   
+   # python program to illustrate If statement
+ 
+i = 10
+ 
+if (i > 15):
+    print("10 is less than 15")
+print("I am Not in if")
